@@ -4,11 +4,9 @@
 
 ### ✨ Real-Time Weather Information at Your Fingertips
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Weather%20Forecast&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Weather%20Forecast&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Real-Time+Weather+Updates+%F0%9F%8C%A4%EF%B8%8F;Search+Weather+by+City+%F0%9F%94%8D;Clean+%26+Responsive+UI+%F0%9F%93%B1;Built+with+HTML%2C+CSS+%26+JavaScript+%E2%9A%A1" alt="Typing Animation" />
-</p>
+<br>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -21,48 +19,35 @@
 
 <p>
   <a href="YOUR_LIVE_DEMO_LINK">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Now-00C853?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Visit%20Now-00C853?style=for-the-badge"/>
   </a>
   &nbsp;
   <a href="YOUR_GITHUB_LINK">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/⭐%20GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212897391-3c8c2a7d-9e4c-4b1f-8a1a-8e8e8b3c6c8e.gif" width="500"/>
+<img src="https://github.com/user-attachments/assets/5a3138b0-294e-4ddf-85ec-555521b9c2f0" width="850" alt="Weather Forecast Application"/>
+
+<br><br>
+
+**🌤️ Real-Time Data   •   🔍 Smart Search   •   📱 Responsive UI   •   ⚡ Fast Experience**
 
 </div>
 
 ---
 
-<div align="center">
-
 ## 🌤️ About The Project
 
-</div>
-
-<table align="center">
+<table>
 <tr>
 <td>
 
 **Weather Forecast Application** is a modern and responsive web application that provides **real-time weather information** for any city around the world.
 
-<br>
-
-The application uses a **Weather REST API** to fetch live weather data and displays important information such as:
-
-<br>
-
-🌡️ **Temperature**   •  
-💧 **Humidity**   •  
-💨 **Wind Speed**   •  
-☁️ **Weather Conditions**
-
-<br><br>
-
-All information is presented through a **clean, modern and user-friendly interface**.
+The application uses a **Weather REST API** to fetch live weather data and displays important information such as **temperature, humidity, wind speed, weather conditions and forecast details** in a clean and user-friendly interface.
 
 </td>
 </tr>
@@ -70,18 +55,16 @@ All information is presented through a **clean, modern and user-friendly interfa
 
 ---
 
-<div align="center">
-
 ## ✨ Features
 
-<br>
+<div align="center">
 
 <table>
 <tr>
 
 <td align="center" width="33%">
 
-### 🔍
+## 🔍
 
 ### Smart City Search
 
@@ -91,7 +74,7 @@ Search weather information by entering any city name.
 
 <td align="center" width="33%">
 
-### 🌡️
+## 🌡️
 
 ### Live Temperature
 
@@ -101,7 +84,7 @@ Get real-time temperature information.
 
 <td align="center" width="33%">
 
-### 💧
+## 💧
 
 ### Humidity Details
 
@@ -113,9 +96,9 @@ View current humidity levels.
 
 <tr>
 
-<td align="center">
+<td align="center" width="33%">
 
-### 💨
+## 💨
 
 ### Wind Information
 
@@ -123,9 +106,9 @@ Check current wind speed.
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-### ☁️
+## ☁️
 
 ### Weather Conditions
 
@@ -133,9 +116,9 @@ Display current weather conditions with icons.
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-### 📱
+## 📱
 
 ### Responsive Design
 
@@ -150,95 +133,53 @@ Works smoothly on desktop, tablet and mobile devices.
 
 ---
 
-<div align="center">
-
 ## 🎨 UI Highlights
 
-<br>
+<div align="center">
 
-<table>
-<tr>
-<td align="center">✨<br><b>Modern & Clean Interface</b></td>
-<td align="center">🌈<br><b>Beautiful Animated Background</b></td>
-<td align="center">🪟<br><b>Glassmorphism Design</b></td>
-</tr>
-
-<tr>
-<td align="center">⚡<br><b>Smooth Hover Animations</b></td>
-<td align="center">📱<br><b>Fully Responsive Layout</b></td>
-<td align="center">🌤️<br><b>Dynamic Weather Icons</b></td>
-</tr>
-
-<tr>
-<td align="center">🚨<br><b>User-Friendly Errors</b></td>
-<td align="center">🔄<br><b>Dynamic Data Updates</b></td>
-<td align="center">💎<br><b>Modern Visual Experience</b></td>
-</tr>
-</table>
+|  ✨  | Feature                           |  ✨  |
+| :-: | :-------------------------------- | :-: |
+|  🌈 | **Beautiful Animated Background** |  ⚡  |
+|  🪟 | **Modern Glassmorphism Design**   |  💎 |
+|  🎯 | **Clean & Minimal Interface**     |  🚀 |
+| 🖱️ | **Smooth Hover Animations**       |  ✨  |
+|  📱 | **Fully Responsive Layout**       | 🌤️ |
+|  🚨 | **User-Friendly Error Messages**  |  🔄 |
 
 </div>
 
 ---
-
-<div align="center">
 
 ## 🛠️ Tech Stack
 
-<br>
+<div align="center">
 
-<table>
-<tr>
-<th>Technology</th>
-<th>Purpose</th>
-</tr>
-
-<tr>
-<td align="center">🟧 <b>HTML5</b></td>
-<td>Website Structure</td>
-</tr>
-
-<tr>
-<td align="center">🟦 <b>CSS3</b></td>
-<td>Styling & Responsive UI</td>
-</tr>
-
-<tr>
-<td align="center">🟨 <b>JavaScript</b></td>
-<td>Application Logic</td>
-</tr>
-
-<tr>
-<td align="center">🌐 <b>REST API</b></td>
-<td>Live Weather Data</td>
-</tr>
-
-<tr>
-<td align="center">🔗 <b>Fetch API</b></td>
-<td>API Integration</td>
-</tr>
-
-</table>
+|     Technology    | Purpose                 |
+| :---------------: | :---------------------- |
+|    🟧 **HTML5**   | Website Structure       |
+|    🟦 **CSS3**    | Styling & Responsive UI |
+| 🟨 **JavaScript** | Application Logic       |
+|  🌐 **REST API**  | Live Weather Data       |
+|  🔗 **Fetch API** | API Integration         |
 
 </div>
 
 ---
 
-<div align="center">
-
 ## 📸 Application Preview
 
-<br>
+<div align="center">
 
-<img src="https://github.com/user-attachments/assets/5a3138b0-294e-4ddf-85ec-555521b9c2f0" width="850" alt="Weather Forecast Application Preview"/>
+<img src="https://github.com/user-attachments/assets/5a3138b0-294e-4ddf-85ec-555521b9c2f0" width="900" alt="Weather Forecast Application Preview"/>
 
 <br><br>
 
 <table>
 <tr>
-<td>🌤️ Clean UI</td>
-<td>⚡ Fast Experience</td>
-<td>📱 Responsive</td>
-<td>🎨 Modern Design</td>
+<td align="center">🌤️<br><b>Modern UI</b></td>
+<td align="center">⚡<br><b>Fast & Interactive</b></td>
+<td align="center">📱<br><b>Responsive</b></td>
+<td align="center">🎨<br><b>Beautiful Design</b></td>
 </tr>
 </table>
 
@@ -246,43 +187,37 @@ Works smoothly on desktop, tablet and mobile devices.
 
 ---
 
-<div align="center">
-
 ## ⚡ How It Works
 
-<br>
+<div align="center">
 
 ```text
-             👤 USER
-                │
-                ▼
-         🔍 ENTER CITY
-                │
-                ▼
-        🌐 WEATHER API
-                │
-                ▼
-          📡 FETCH DATA
-                │
-                ▼
-       ⚙️ PROCESS RESPONSE
-                │
-                ▼
-         🌦️ DISPLAY WEATHER
-                │
-                ▼
-       ✨ BEAUTIFUL UI
+                    👤 USER
+                       │
+                       ▼
+                🔍 ENTER CITY
+                       │
+                       ▼
+                🌐 WEATHER API
+                       │
+                       ▼
+                 📡 FETCH DATA
+                       │
+                       ▼
+              ⚙️ PROCESS RESPONSE
+                       │
+                       ▼
+                🌦️ DISPLAY WEATHER
+                       │
+                       ▼
+                 ✨ BEAUTIFUL UI
 ```
 
 </div>
 
 ---
 
-<div align="center">
-
 ## 🔄 Weather Data Flow
-
-<br>
 
 ```mermaid
 flowchart LR
@@ -290,7 +225,7 @@ flowchart LR
     B --> C["🌐 Weather REST API"]
     C --> D["📡 Fetch Data"]
     D --> E["⚙️ Process Response"]
-    E --> F["🌦️ Weather Display"]
+    E --> F["🌦️ Display Weather"]
 
     style A fill:#36BCF7,color:#fff
     style B fill:#36BCF7,color:#fff
@@ -300,50 +235,70 @@ flowchart LR
     style F fill:#00C853,color:#fff
 ```
 
-</div>
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone YOUR_GITHUB_LINK
+```
+
+### 2️⃣ Open the Project
+
+```bash
+cd Weather-Forecast
+```
+
+### 3️⃣ Run the Application
+
+Open `index.html` in your browser.
+
+---
+
+## 📂 Project Structure
+
+```text
+Weather-Forecast/
+│
+├── 📄 index.html
+├── 🎨 style.css
+├── ⚡ script.js
+├── 🖼️ assets/
+│
+└── 📄 README.md
+```
+
+---
+
+## 🌟 Future Enhancements
+
+* 📍 Current Location Weather
+* 📅 7-Day Weather Forecast
+* 🌙 Dark / Light Mode
+* 🌅 Sunrise & Sunset Information
+* 🌡️ Feels Like Temperature
+* 🗺️ Weather Map Integration
+* 📊 Weather Charts & Statistics
+* 🎨 More Dynamic Weather Animations
 
 ---
 
 <div align="center">
 
-## 🚀 Project Experience
+## 👨‍💻 Developer
+
+### **Suryansh Singh**
+
+**Full Stack Developer | AI & ML Enthusiast | Aspiring Software Engineer**
 
 <br>
 
-**🌤️ Real-Time Data**
-Live weather information fetched directly from the API.
-
-**🔍 Easy Search**
-Simply enter a city name and get instant results.
-
-**🎨 Modern UI**
-Clean interface with animations and glassmorphism effects.
-
-**📱 Responsive Experience**
-Optimized for desktop, tablet and mobile devices.
-
-</div>
-
----
-
-<div align="center">
-
-## ⭐ Support
-
-If you like this project, don't forget to:
-
-<br>
-
-⭐ **Star this repository**
-
-🍴 **Fork the project**
-
-📢 **Share it with others**
+If you like this project, consider giving it a ⭐ **Star**!
 
 <br><br>
 
-### 💙 Thanks for visiting!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 
 </div>
