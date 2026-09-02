@@ -33,7 +33,11 @@
 
 <br><br>
 
-**🌤️ Real-Time Data   •   🔍 Smart Search   •   📱 Responsive UI   •   ⚡ Fast Experience**
+**🌤️ Real-Time Data   •   🔍 Smart Search   •   📱 Responsive UI   •   ⚡ Fast Experience**
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -295,10 +299,14 @@ Weather-Forecast/
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=36BCF7&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Aspiring+Software+Engineer+%F0%9F%9A%80;Building+Real-World+Projects+%E2%9C%A8" alt="Developer Animation"/>
+
+<br>
+
 If you like this project, consider giving it a ⭐ **Star**!
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
