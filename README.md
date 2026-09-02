@@ -4,7 +4,7 @@
 
 ### ✨ Real-Time Weather Information at Your Fingertips
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Weather%20Forecast&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
 
 <br>
 
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Visit%20Now-00C853?style=for-the-badge"/>
   </a>
   &nbsp;
-  <a href="YOUR_GITHUB_LINK">
+  <a href="https://github.com/yashsingh-wq">
     <img src="https://img.shields.io/badge/⭐%20GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
