@@ -109,7 +109,8 @@ Works smoothly on desktop, tablet and mobile devices.
 
 <!-- Replace this with your screenshot -->
 
-<img src="YOUR_SCREENSHOT_LINK" width="850" alt="Weather Forecast Application"/>
+<img src="<img width="1911" height="911" alt="Screenshot 2026-09-02 115141" src="https://github.com/user-attachments/assets/5a3138b0-294e-4ddf-85ec-555521b9c2f0" />
+" width="850" alt="Weather Forecast Application"/>
 
 </div>
 
