@@ -683,7 +683,7 @@ function initMap(){
 
 function addRadarLayer(layerKey){
   if(state.radarLayer){ state.map.removeLayer(state.radarLayer); }
-  const owmKey = "dff120b7911e9421aab360d50d3175bc"; // 👈 apni OpenWeatherMap key yahan daalo
+  const owmKey = "YOUR API KEY"; // 👈 apni OpenWeatherMap key yahan daalo
   state.radarLayer = L.tileLayer(`https://tile.openweathermap.org/map/${layerKey}/{z}/{x}/{y}.png?appid=${owmKey}`, {
     opacity: 0.7,
     maxZoom: 19,
